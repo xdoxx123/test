@@ -1,12 +1,10 @@
-package io.github.xdoxx123.bingus_mod;
+package io.github.xdoxx123.example_mod;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
-import net.minecraft.registry.RegistryKey;
 import net.minecraft.util.Identifier;
 import org.quiltmc.loader.api.ModContainer;
 

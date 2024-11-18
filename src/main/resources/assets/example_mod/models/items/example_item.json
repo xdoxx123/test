@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "simple_item_mod:item/example_item"
+    "layer0": "example_mod:item/example_item"
   }
 }

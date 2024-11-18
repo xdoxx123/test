@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "io.github.xdoxx123.bingus_mod.ExampleMod"
+			"init": "io.github.xdoxx123.example_mod.ExampleMod"
 		},
 		"depends": [
 			{
